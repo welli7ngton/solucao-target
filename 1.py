@@ -5,4 +5,4 @@ def main(k, indice, soma=0):
 
 
 if __name__ == '__main__':
-    print(main(0, 13))
+    print(main(0, 13))  # 91
