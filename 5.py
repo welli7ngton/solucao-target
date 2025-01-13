@@ -3,4 +3,4 @@ def reverse_str(_string: str) -> str:
 
 
 if __name__ == '__main__':
-    print(reverse_str("hello world"))
+    print(reverse_str("hello world"))  # dlrow olleh
